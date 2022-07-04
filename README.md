@@ -7,3 +7,5 @@ Joke generator app using Chuck Norris API
 * AJAX
 ## Main Goal:
 ### learn to fetch data from external APIs using AJAX
+<br><br>
+<img src="./img/joke-generator.PNG">
