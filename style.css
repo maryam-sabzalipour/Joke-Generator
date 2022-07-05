@@ -50,6 +50,7 @@ li:nth-child(even) { background-color: rgba(0,0,0,0.1); }
   background-color: #001858;
   color: #fff;
   text-align: center;
+  padding: 0 6px;
 }
 #main h1{ margin: 30px 0; }
 .form {
