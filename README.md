@@ -8,6 +8,5 @@ Joke generator app using Chuck Norris API
 ## Main Goal:
 ### learn to fetch data from external APIs using AJAX.
 ### The API link: https://api.icndb.com/jokes
-### Click [this link](https://maryam-sabzalipour.github.io/Joke-Generator/) for the live preview.
 <br><br>
 <img src="./img/joke-generator.PNG" width="800px" alt="App Screenshot">
